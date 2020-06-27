@@ -1,0 +1,26 @@
+spriteTypes = {
+
+### Schools of Western Christianity traits
+	
+	spriteType = {
+		name = "GFX_trait_nz_acolyte"
+		texturefile = "gfx/traits/school_acolyte.dds"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.lua"
+	}
+	spriteType = {
+		name = "GFX_trait_nz_presbyter"
+		texturefile = "gfx/traits/school_presbyter.dds"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.lua"
+	}
+	spriteType = {
+		name = "GFX_trait_nz_seraph"
+		texturefile = "gfx/traits/school_seraph.dds"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.lua"
+	}
+}

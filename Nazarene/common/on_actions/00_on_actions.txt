@@ -1,0 +1,7 @@
+#character
+on_adulthood = {
+	events = {
+		nazarene.1 #nazarene traits~
+
+	}
+}
