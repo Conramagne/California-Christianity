@@ -1,7 +1,7 @@
 ##Nazarene stuff, yay! Lets migrate this to AtE Proper's files eventually.##
 nazarene;Nazarene;;;;;;;;;;;;;x
-nazarene_DESC;In the face of the conquests of the Lawgiver the Churches of the Nazarenes put aside the ancient doctrinal divides for the sake of their own survival. Adherents to this creed practice their own traditional forms of Christianity unmolested by their peers, and take part in the labyrinthine codes and civil systems of Californian society. The de facto spiritual leader of the Nazarenes is the Abbot of Saint Herman’s Monastery, who both settles disputes between the Christian branches and protects the holy places of the pilgrims and the libraries of the archivists.;;;;;;;;;;;;;x
-nazarene_FEATURES;§Y*§! Nazarene rulers may gain sympathy with Cetic by decision.\n;;;;;;;;;;;;;x
+nazarene_DESC;In the face of the conquests of the Lawgiver the Churches of the Nazarenes put aside the ancient doctrinal divides for the sake of their own survival. Adherents to this creed practice their own traditional forms of Christianity unmolested by their peers, and take part in the labyrinthine codes and civil systems of Californian society. The de facto spiritual leader of the Nazarenes is the Abbot of Saint Herman�s Monastery, who both settles disputes between the Christian branches and protects the holy places of the pilgrims and the libraries of the archivists.;;;;;;;;;;;;;x
+nazarene_FEATURES;Nazarene rulers may gain sympathy with Cetic by decision.;;;;;;;;;;;;;x
 true_cross;True Cross;;;;;;;;;;;;;x
 true_cross_DESC;True Cross began as a isolationist strain of thought within California Christendom. Many church leaders bitterly resented the influence of the Eltonites and the seemingly lukewarm attitudes of their Christian brethren towards the influence of the Emperor. This smoldered into a pseudo-iconoclastic uprising which was quickly crushed by both mainline Christian and Imperial forces, driving the last of the zealots into the bandit-ridden mountains and isolated communities of the Sierra Nevada. They identify each other by the wearing of California Poppies and dream of the day when all of the Golden West may be under the shadow of the True Cross.;;;;;;;;;;;;;x
 d_nazarene;Saint Herman's Brotherhood;;;;;;;;;;;;;x
@@ -17,7 +17,7 @@ EVTOPTA_nazarene1;To dedicate myself to the way of the Seraphs.;;;;;;;;;;;;;x
 EVTOPTB_nazarene1;To join the ranks of the Acolytes.;;;;;;;;;;;;;x
 EVTOPTC_nazarene1;To spread the good word of the Presbyters.;;;;;;;;;;;;;x
 nz_acolyte;Acolyte;;;;;;;;;;;;;x
-nz_acolyte_desc;Acolytes are the adherents of the old Roman Rite. They take great pride in the fact that their church is the oldest in the Golden West, tracing their heritage back to Saint Junípero Serra and the Spanish Missions.;;;;;;;;;;;;;x
+nz_acolyte_desc;Acolytes are the adherents of the old Roman Rite. They take great pride in the fact that their church is the oldest in the Golden West, tracing their heritage back to Saint Jun�pero Serra and the Spanish Missions.;;;;;;;;;;;;;x
 nz_seraph;Seraph;;;;;;;;;;;;;x
 nz_seraph_desc;Seraphs draw mostly from the ancient Eastern traditions and liturgy, and particularly from the writings of Hieromonk Seraphim Rose, a San Francisco native believed to have been born in the century before the deluge.;;;;;;;;;;;;;x
 nz_presbyter;Presbyter;;;;;;;;;;;;;x
