@@ -17,8 +17,6 @@ e_the_rockies = {
 		atomicist = 200
 		americanist = 25
 		
-		culture = coloradan
-
 		capital = 389 # Denver
 
 		d_boulder = {
@@ -97,7 +95,6 @@ e_the_rockies = {
 				color2= { 255 255 255 }
 				holy_site = catholic
 				holy_site = neognostic
-				holy_site = nazarene
 
 				b_denver_CO = {}
 				b_aurora_CO = {}
@@ -201,7 +198,9 @@ e_the_rockies = {
 			c_huerfano = { # 395
 				color = { 104 78 15 }
 				color2= { 255 255 255 }
-
+				
+				navajo = "Hanáádli´"
+				
 				b_walsenburg_CO = {}
 				b_badito_CO = {}
 				b_westcliffe_CO = {}
@@ -348,20 +347,16 @@ e_the_rockies = {
 		americanist = 25
 		
 		capital = 430 # Salt Lake
-
-		culture = utahn
 		
 		beltway = "Utah"
 
-		d_great_salt_duchy = {
+		d_wasatch = {
 			color = { 71 109 243 }
 			color2= { 255 255 255 }
 
 			capital = 430 # Salt Lake
 
-			short_name = yes
-
-			culture = utahn
+			#short_name = yes
 
 			c_bear_river = {
 				color = { 113 138 227 }
@@ -513,6 +508,7 @@ e_the_rockies = {
 			c_zion = {
 				color = { 233 78 136 }
 				color2= { 255 255 255 }
+				
 				holy_site = mormon
 				holy_site = neogodbeite
 				holy_site = woolleyite
@@ -538,6 +534,19 @@ e_the_rockies = {
 				b_antimony_UT = {}
 				b_tropic_UT = {}
 			}
+			c_capitol_reef = {
+				color = { 101 45 146 }
+				color2= { 255 255 255 }
+
+				b_hanksville_UT = {}
+				b_fruita_UT = {}
+				b_grover_UT = {}
+				b_bicknell_UT = {}
+				b_torrey_UT = {}
+				b_caineville_UT = {}
+				b_loa_UT = {}
+				b_fremont_UT = {}
+			}
 			c_manti_la_sal = {
 				color = { 205 24 56 }
 				color2= { 255 255 255 }
@@ -562,9 +571,7 @@ e_the_rockies = {
 		#Crusade target weight
 		americanist = 25
 		trailwalker_reformed = 500
-		
-		culture = mountainer
-		
+				
 		beltway = "Wyoming"
 
 		d_sweetwater = {
@@ -572,8 +579,6 @@ e_the_rockies = {
 			color2= { 214 239 246 }
 
 			capital = 443 #Bridger
-
-			culture = mountainer
 
 			c_bridger = {
 				color = { 137 194 201 }
@@ -624,8 +629,6 @@ e_the_rockies = {
 			color2= { 33 41 38 }
 
 			capital = 448 #yellowstone
-
-			culture = mountainer
 			
 			c_sublette = {
 				color = { 246 213 116 }
@@ -689,8 +692,6 @@ e_the_rockies = {
 			color2= { 216 217 236 }
 
 			capital = 455 #Big Horn
-
-			culture = mountainer
 			
 			c_wind_river = {
 				color = { 198 108 21 }
@@ -724,8 +725,6 @@ e_the_rockies = {
 			color2 = { 255 255 255 }
 			
 			capital = 476 #Wheatland
-			
-			culture = coloradan
 		
 			c_carbon = {
 				color = { 113 25 37 }
@@ -780,8 +779,10 @@ e_the_rockies = {
 			c_natrona = {
 				color = { 133 113 111 }
 				color2 = { 255 255 255 }
+				
 				holy_site = trailwalker
 				holy_site = trailwalker_reformed
+				
 				b_devils_gate_WY = {}
 				b_martins_cove_WY = {}
 				b_piaya_WY = {}
@@ -796,39 +797,34 @@ e_the_rockies = {
 		color = { 88 7 3 }
 		color2= { 255 237 27 }
 
-		capital = 460 #Gem Canyon
-
-		culture = mountainer
+		capital = 460 #Boise
 		
 		americanist = 10
 		mormon = 500
 		raven_tales_reformed = 100
 		trailwalker_reformed = 50
+		atomicist = 50
 
-		d_west_snake = {
-			color = { 255 201 49 }
-			color2= { 205 0 44 }
+		d_treasure_valley = {
+			color = { 151 87 78}
+			color2= { 243 150 50 }
 
-			capital = 460 #Gem Canyon
-
-			culture = mountainer
+			capital = 460 #Boise
 			
-			haida = "Saa Tlagaasd"	#from the east
-
-			c_gem_canyon = {
+			c_boise = {
 				color = { 44 77 156 }
 				color2 = { 235 117 45 }
 
 				haida = "Gyaa Dah"	#trade with
+				
+				holy_site = nazarene
 
 				b_boise_ID = {}
 				b_nampa_ID = {}
 				b_caldwell_ID = {}
 				b_meridian_ID = {}
 				b_emmett_ID = {}
-				b_ontario_OR = {}
 				b_kuna_ID = {}
-				b_mccall_ID = {}
 				b_cascade_ID = {}
 				b_he_devil_ID = {}
 				b_payette_ID = {}
@@ -836,6 +832,42 @@ e_the_rockies = {
 				b_big_baldy_ID = {}
 				b_buckhorn_ID = {}
 			}
+			
+			c_gem_valley = {
+				color = { 110 155 172 }
+				color2 = { 235 117 45 }
+
+				b_mccall_ID = {}
+				b_council_ID = {}
+				b_cambridge_ID = {}
+				b_weiser_ID = {}
+				b_rebecca_ID = {}
+				b_fruit_valley_ID = {}
+				b_new_meadows_ID = {}
+				b_lake_fork_ID = {}
+			}
+			
+			c_elmore = {
+				color = { 139 140 144}
+				color2 = { 28 48 119 }
+				
+				b_mountain_home_ID = {}
+				b_bruneau_ID = {}
+				b_hammett_ID = {}
+				b_glenns_ferry_ID = {}
+				b_bennett_ID = {}
+				b_danskin_ID = {}
+				b_bliss_ID = {}
+			}
+		}
+		d_west_snake = {
+			color = { 255 201 49 }
+			color2= { 205 0 44 }
+
+			capital = 462 #Baker
+			
+			haida = "Saa Tlagaasd"	#from the east
+
 			c_baker = {
 				color = { 243 168 63}
 				color2 = { 90 3 0 }
@@ -870,6 +902,7 @@ e_the_rockies = {
 				
 				haida = "Giiyaa"	#dead spruce branch
 				
+				b_ontario_OR = {}
 				b_jordan_valley_OR = {}
 				b_mcdermitt_OR = {}
 				b_fields_OR = {}
@@ -919,8 +952,6 @@ e_the_rockies = {
 			color2= { 243 207 181 }
 			
 			capital = 451 #Idaho Falls
-
-			culture = mountainer
 
 			c_bingham = {
 				color = { 0 102 52 }
@@ -995,26 +1026,13 @@ e_the_rockies = {
 				b_raft_river_ID = {}
 			}
 		}
+		
 		d_northern_basin = {
 			color = { 101 45 138}
 			color2= { 243 150 50 }
 
-			capital = 456 #Elmore
-
-			culture = mountainer
+			capital = 457 #Owyhee
 			
-			c_elmore = {
-				color = { 139 140 144}
-				color2 = { 28 48 119 }
-				
-				b_mountain_home_ID = {}
-				b_bruneau_ID = {}
-				b_hammett_ID = {}
-				b_glenns_ferry_ID = {}
-				b_bennett_ID = {}
-				b_danskin_ID = {}
-				b_bliss_ID = {}
-			}
 			c_owyhee = {
 				color = { 93 82 147 }
 				color2 = { 255 235 0 }
@@ -1082,8 +1100,6 @@ e_the_rockies = {
 			color2= { 85 38 2 }
 
 			capital = 469 #Beaverhead
-
-			culture = mountainer
 			
 			c_beaverhead = {
 				color = { 98 98 98 }
@@ -1126,9 +1142,7 @@ e_the_rockies = {
 		d_highdesert = {
 			color = { 237 172 78 }
 			color2 = { 0 9 95 }
-			
-			culture = siskiyouan
-			
+						
 			capital = 526 #Deschutes
 			
 			haida = "Kawsda"	#to be hot
@@ -1186,8 +1200,6 @@ e_the_rockies = {
 		americanist = 25
 		mormon = 2000
 		atomicist = 5000
-
-		culture = navajo
 		
 		navajo = "Dinétah"
 		hopi = "Hopituskwa"
@@ -1199,7 +1211,6 @@ e_the_rockies = {
 
 			navajo = "Diné Bikéyah"
 			
-			culture = navajo
 
 			capital = 412 # Fort Defiance
 
@@ -1323,8 +1334,6 @@ e_the_rockies = {
 		d_hopi = {
 			color = { 45 52 193 }
 			color2= { 255 255 255 }
-
-			culture = hopi
 			
 			hopi = "Hopituskwa"
 
@@ -1333,8 +1342,6 @@ e_the_rockies = {
 			c_hopituskwa = {
 				color = { 64 93 193 }
 				color2= { 255 255 255 }
-
-				culture = hopi
 
 				b_kykotsmovi_AZ = {
 					hopi = "Kiqötsmovi"

@@ -1787,7 +1787,8 @@
 	dynasty=1850057
 	trait=way_dove
 	culture=angeleno
-	religion=cetic
+	religion=nazarene
+	trait=presbyter
 	2604.12.16={birth=yes}
 	2659.12.1={death=yes}
 }
@@ -1797,9 +1798,9 @@
 	female=no
 	dynasty=1850057
 	culture=angeleno
-	religion=cetic
+	religion=nazarene
 	trait=charismatic_negotiator
-	trait=way_dove
+	trait=presbyter
 	trait=kind
 	trait=gregarious
 	trait=zealous
@@ -1815,9 +1816,9 @@
 	female=no
 	dynasty=1850057
 	culture=angeleno
-	religion=cetic
+	religion=nazarene
 	trait=misguided_warrior
-	trait=way_dove
+	trait=presbyter
 	trait=honest
 	trait=humble
 	father=1910135
@@ -1830,10 +1831,10 @@
 	female=no
 	dynasty=1850057
 	culture=angeleno
-	religion=cetic
+	religion=nazarene
 	learning=8
 	trait=fortune_builder
-	trait=way_book
+	trait=presbyter
 	trait=patient
 	trait=diligent
 	trait=ill
@@ -1847,9 +1848,9 @@
 	female=no
 	dynasty=1850057
 	culture=angeleno
-	religion=cetic
+	religion=nazarene
 	trait=elusive_shadow
-	trait=way_cowl
+	trait=presbyter
 	trait=greedy
 	trait=envious
 	trait=diligent
@@ -1866,8 +1867,8 @@
 	female=yes
 	dynasty=1850057
 	culture=angeleno
-	religion=cetic
-	trait=way_dove
+	religion=nazarene
+	trait=presbyter
 	trait=gregarious
 	father=1910135
 	2654.12.16={birth=yes}

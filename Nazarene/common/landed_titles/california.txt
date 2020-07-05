@@ -1228,6 +1228,7 @@ e_california = {
 				holy_site = cetic
 				holy_site = consumerist
 				holy_site = shinto
+				holy_site = nazarene
 
 				tehrangeleno = "Tehrangeles"
 				edokko = "Tenshiji"
@@ -1360,7 +1361,6 @@ e_california = {
 				color2={ 255 255 255 }
 				holy_site = mormon
 				holy_site = imamite
-				holy_site = nazarene
 
 				edokko = "Deigo" #Transliterated
 				paiute = "Saaddzego"
