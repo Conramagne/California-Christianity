@@ -28,3 +28,16 @@ nz_flagellant;Flagellant;;;;;;;;;;;;;x
 nz_flagellant_desc;Believes in asceticism, mortification of the flesh, and isolating oneself from the pleasures of the world.;;;;;;;;;;;;;x
 nz_sword_saint;Sword Saints;;;;;;;;;;;;;x
 nz_sword_saint_desc;Willing to fall on their swords for the sake of the Lord. Value moral and muscular courage in the face of persecution and war.;;;;;;;;;;;;;x
+
+emperor_true_cross;Apostle;;;;;;;;;;;;;x
+emperor_female_true_cross;Apostle;;;;;;;;;;;;;x
+king_true_cross;Father;;;;;;;;;;;;;x
+king_female_true_cross;Mother;;;;;;;;;;;;;x
+duke_true_cross;Elder;;;;;;;;;;;;;x
+duke_female_true_cross;Elder;;;;;;;;;;;;;x
+count_true_cross;Brother;;;;;;;;;;;;;x
+count_female_true_cross;Sister;;;;;;;;;;;;;x
+baron_true_cross;Shepherd;;;;;;;;;;;;;x
+baron_female_true_cross;Shepherd;;;;;;;;;;;;;x
+
+CAESAR;Caesar;;;;;;;;;;;;;x

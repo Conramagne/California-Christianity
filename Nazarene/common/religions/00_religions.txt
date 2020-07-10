@@ -658,7 +658,7 @@ christian = {
 		}
 		
 		evil_god_names = {
-			SATAN LUCIFER THE_DEVIL
+			SATAN LUCIFER THE_DEVIL CAESAR
 		}
 		
 		can_call_crusade = yes
