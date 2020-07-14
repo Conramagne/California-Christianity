@@ -1872,8 +1872,9 @@
 	trait=fortune_builder
 	trait=sympathy_cult_of_saints
 	trait=administrator
+	trait = imp_ex3
 	trait=nz_acolyte
-	trait=dwarf
+	trait=weak
 	trait=wroth
 	trait=kind
     2626.7.2={birth=yes}

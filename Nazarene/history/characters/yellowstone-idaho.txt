@@ -232,7 +232,7 @@
 	culture=paiute
 	religion=nazarene
 	trait=fortune_builder
-	trait=way_dove
+	trait=nz_presbyter
 	trait=just
 	trait=diligent
 	trait=greedy

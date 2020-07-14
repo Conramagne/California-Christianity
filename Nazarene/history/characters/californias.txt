@@ -2,7 +2,7 @@
 1910000={
 	name="Gastón"
 	dynasty=1912065 # del Caballero
-	father=1910001
+	father=1910001presbyt
 	martial=10
 	diplomacy=6
 	stewardship=7
@@ -1880,9 +1880,9 @@
 	female=no
 	dynasty=2034033
 	culture=tehrangeleno
-	religion=cetic
+	religion=nazarene
 	trait=fortune_builder
-	trait=way_dove
+	trait=nz_seraph
 	trait=fair
 	trait=diligent
 	trait=gregarious
@@ -2360,6 +2360,7 @@
 	culture=valleyan
 	religion=nazarene
 	trait=charismatic_negotiator
+	trait = imp_ex2
 	trait=kind
 	trait=wroth
 	trait=just

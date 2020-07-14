@@ -207,6 +207,7 @@
 	culture=bayfolk
 	religion=nazarene
 	trait=hedonist
+	trait=nz_presbyter
 	trait=way_cowl
 	trait=imp_ex2
 	trait=drunkard
