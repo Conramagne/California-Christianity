@@ -1,8 +1,8 @@
-###ÄNSI
+###Ã„NSI
 1910000={
-	name="Gastón"
+	name="GastÃ³n"
 	dynasty=1912065 # del Caballero
-	father=1910001presbyt
+	father=1910001
 	martial=10
 	diplomacy=6
 	stewardship=7
@@ -1126,7 +1126,7 @@
 }
 
 1910047={
-	name="Iñigo"
+	name="IÃ±igo"
 	dynasty=1912001
 	dna="fenmnfoiceo"
 	culture=chino
